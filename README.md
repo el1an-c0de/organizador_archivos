@@ -12,7 +12,7 @@
 - **Barra de Progreso:** Visualiza el progreso de la organización de archivos en tiempo real con una barra de progreso verde.
 - **Logs en Tiempo Real:** Monitorea el proceso de organización a través de una consola de logs integrada.
 - **Interfaz Intuitiva:** Diseño moderno y fácil de usar con temas personalizados.
-- **Configuración Persistente:** Guarda tus configuraciones y preferencias para futuros usos.
+- **Configuración Persistente:** Guarda tus configuraciones y preferencias para futuros usos. 
 
 ## 🛠️ Instalación
 
