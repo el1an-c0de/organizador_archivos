@@ -52,7 +52,7 @@
 
 
 ## 📜 Licencia
-Este proyecto está licenciado bajo la [Licencia MIT](https://github.com/el1an-c0de/organizador_archivos_CALEB/blob/main/LICENSE). Consulta el archivo LICENSE para más detalles.
+Este proyecto está licenciado bajo la [Licencia MIT](https://github.com/el1an-c0de/organizador_archivos_CALEB/blob/main/blob/main/LICENSE). Consulta el archivo LICENSE para más detalles.
 
 ## 📞 Contacto
 - Desarrollador: Elian Ramírez
