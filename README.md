@@ -1,4 +1,4 @@
-# Organizador de Archivos CALEB
+# Organizador de Archivos
 
 ![Organizador de Archivos CALEB](https://github.com/el1an-c0de/organizador_archivos_CALEB/blob/main/blob/main/thumbnail.png)
 
