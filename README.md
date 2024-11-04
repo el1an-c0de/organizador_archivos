@@ -2,7 +2,7 @@
 
 ![Organizador de Archivos CALEB](https://github.com/el1an-c0de/organizador_archivos_CALEB/blob/main/blob/main/thumbnail.png)
 
-**Organizador de Archivos** es una aplicación de escritorio desarrollada en Python utilizando la biblioteca Tkinter. Esta herramienta permite a los usuarios de la empresa CALEB organizar sus archivos de manera eficiente en carpetas específicas basadas en extensiones y términos personalizados. Ideal para mantener ordenados proyectos de diseño, documentos, imágenes y más.
+**Organizador de Archivos** es una aplicación de escritorio desarrollada en Python utilizando la biblioteca Tkinter. Esta herramienta permite a los usuarios organizar sus archivos de manera eficiente en carpetas específicas basadas en extensiones y términos personalizados. Ideal para mantener ordenados proyectos de diseño, documentos, imágenes y más.
 
 ## 📋 Características
 
